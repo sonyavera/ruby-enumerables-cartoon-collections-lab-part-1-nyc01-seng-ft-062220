@@ -14,5 +14,5 @@ end
 end
 
 .each_with_index { |item, index|
-  puts #{
+  puts "#{index}. #{item}"
 }
