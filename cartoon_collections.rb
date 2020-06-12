@@ -10,5 +10,4 @@ end
 def list_dwarves(array)
   array.each_with_index(1) |element, index| 
   puts "#{index}. #{element}"
-  end
 end
